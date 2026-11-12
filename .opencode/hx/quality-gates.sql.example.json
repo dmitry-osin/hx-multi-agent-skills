@@ -1,0 +1,6 @@
+{
+  "gates": [
+    { "name": "migration-validation", "argv": ["./gradlew", "flywayValidate"] },
+    { "name": "database-integration-tests", "argv": ["./gradlew", "integrationTest"] }
+  ]
+}

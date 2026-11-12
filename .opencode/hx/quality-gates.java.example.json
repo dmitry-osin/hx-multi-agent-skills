@@ -1,0 +1,6 @@
+{
+  "gates": [
+    { "name": "java-unit-tests", "argv": ["./mvnw", "test"] },
+    { "name": "java-full-verification", "argv": ["./mvnw", "verify"] }
+  ]
+}

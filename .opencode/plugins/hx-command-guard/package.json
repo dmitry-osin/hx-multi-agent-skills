@@ -1,0 +1,11 @@
+{
+  "name": "hx-command-guard",
+  "private": true,
+  "version": "5.8.0",
+  "type": "module",
+  "exports": {
+    ".": "./index.js"
+  },
+  "dependencies": {},
+  "author": "Dmitry Osin"
+}

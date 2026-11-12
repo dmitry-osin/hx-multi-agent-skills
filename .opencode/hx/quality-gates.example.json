@@ -1,0 +1,7 @@
+{
+  "gates": [
+    { "name": "compile", "argv": ["./gradlew", "compileJava"] },
+    { "name": "tests", "argv": ["./gradlew", "test"] },
+    { "name": "static-checks", "argv": ["./gradlew", "check"] }
+  ]
+}

@@ -1,0 +1,4 @@
+{
+  "soft_limit_usd": 5.0,
+  "notes": "Soft estimate using manually entered tokens. This is NOT an API billing cap."
+}

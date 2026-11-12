@@ -1,0 +1,6 @@
+{
+  "gates": [
+    { "name": "kotlin-unit-tests", "argv": ["./gradlew", "test"] },
+    { "name": "kotlin-static-and-build", "argv": ["./gradlew", "check"] }
+  ]
+}

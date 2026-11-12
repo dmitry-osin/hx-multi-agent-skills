@@ -1,0 +1,5 @@
+{
+  "mode": "ask-host",
+  "network": false,
+  "maxTimeoutMs": 600000
+}
